@@ -1,0 +1,6 @@
+c:\users\аканд.local\documents\visual studio 2017\Projects\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+c:\users\аканд.local\documents\visual studio 2017\Projects\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+c:\users\аканд.local\documents\visual studio 2017\Projects\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+c:\users\аканд.local\documents\visual studio 2017\Projects\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojResolveAssemblyReference.cache
+c:\users\аканд.local\documents\visual studio 2017\Projects\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+c:\users\аканд.local\documents\visual studio 2017\Projects\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
