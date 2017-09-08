@@ -1,0 +1,6 @@
+c:\users\аканд.local\documents\visual studio 2017\Projects\16.08(2)\16.08(2)\bin\Debug\16.08(2).exe.config
+c:\users\аканд.local\documents\visual studio 2017\Projects\16.08(2)\16.08(2)\bin\Debug\16.08(2).exe
+c:\users\аканд.local\documents\visual studio 2017\Projects\16.08(2)\16.08(2)\bin\Debug\16.08(2).pdb
+c:\users\аканд.local\documents\visual studio 2017\Projects\16.08(2)\16.08(2)\obj\Debug\16.08(2).csprojResolveAssemblyReference.cache
+c:\users\аканд.local\documents\visual studio 2017\Projects\16.08(2)\16.08(2)\obj\Debug\16.08(2).exe
+c:\users\аканд.local\documents\visual studio 2017\Projects\16.08(2)\16.08(2)\obj\Debug\16.08(2).pdb
