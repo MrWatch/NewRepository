@@ -1,0 +1,99 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp14
+{ 
+    public partial class Car
+    {
+        private int id;
+        private string model;
+        private string color;
+        private string mark;
+        private double litre;
+        public Car()
+        {
+            id = 1;
+            model = "car";
+            color = "grey";
+            mark = "json";
+            litre = 9.7;
+        }
+        static Car()
+        {
+            
+        }
+        public Car(int id)
+        {
+            this.id = id;
+            model = "BMW";
+            mark = "S";
+            color = "black";
+            litre=9;
+        }
+        public Car(int id,string model,string mark,double litre)
+        {
+            this.id = id;
+            this.model = model;
+            this.mark = mark;
+            this.litre = litre;
+        }
+                
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp14
+{
+    public partial class Car
+    {
+        public void SetId(int id)
+        {
+            this.id = id;
+        }
+        public int GetId()
+        {
+            return id;
+        }
+        public void SetModel(string model)
+        {
+            this.model = model;
+        }
+        public string GetModel()
+        {
+            return model;
+        }
+        public void SetColor(string color)
+        {
+            this.color = color;
+        }
+        public string GetColor()
+        {
+            return color;
+        }
+        public void SetMark(string mark)
+        {
+            this.mark = mark;
+        }
+        public string GetMark()
+        {
+            return mark;
+        }
+        public void SetLitre(double litre)
+        {
+            this.litre = litre;
+        }
+        public double GetLitre()
+        {
+            return litre;
+        }
+    }
+}
