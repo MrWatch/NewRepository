@@ -1,0 +1,7 @@
+C:\Users\Dauren\source\repos\23.08\23.08\bin\Debug\23.08.exe.config
+C:\Users\Dauren\source\repos\23.08\23.08\bin\Debug\23.08.exe
+C:\Users\Dauren\source\repos\23.08\23.08\bin\Debug\23.08.pdb
+C:\Users\Dauren\source\repos\23.08\23.08\obj\Debug\23.08.csprojResolveAssemblyReference.cache
+C:\Users\Dauren\source\repos\23.08\23.08\obj\Debug\23.08.csproj.CoreCompileInputs.cache
+C:\Users\Dauren\source\repos\23.08\23.08\obj\Debug\23.08.exe
+C:\Users\Dauren\source\repos\23.08\23.08\obj\Debug\23.08.pdb
