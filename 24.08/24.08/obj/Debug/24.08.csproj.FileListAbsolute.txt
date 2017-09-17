@@ -1,0 +1,7 @@
+C:\Users\Dauren\source\repos\24.08\24.08\bin\Debug\24.08.exe.config
+C:\Users\Dauren\source\repos\24.08\24.08\bin\Debug\24.08.exe
+C:\Users\Dauren\source\repos\24.08\24.08\bin\Debug\24.08.pdb
+C:\Users\Dauren\source\repos\24.08\24.08\obj\Debug\24.08.csprojResolveAssemblyReference.cache
+C:\Users\Dauren\source\repos\24.08\24.08\obj\Debug\24.08.csproj.CoreCompileInputs.cache
+C:\Users\Dauren\source\repos\24.08\24.08\obj\Debug\24.08.exe
+C:\Users\Dauren\source\repos\24.08\24.08\obj\Debug\24.08.pdb
