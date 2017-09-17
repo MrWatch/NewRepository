@@ -1,0 +1,15 @@
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\JavaObject.xml
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+c:\users\сарбасоваа.local\documents\visual studio 2017\Projects\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojResolveAssemblyReference.cache
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\Dauren\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Student.xml

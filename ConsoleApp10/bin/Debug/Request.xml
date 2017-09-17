@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<paymentRequest>
+    <forwardUrl>https://www.example.com</forwardUrl>
+    <language>EN</language>
+    <userId>13339</userId>
+    <affiliateId>my:google:campain:5478669</affiliateId>
+    <userIP>192.168.8.68</userIP>
+    <tosUrl>https://www.example.com/tos</tosUrl>
+    <contracts>
+        <contract name="14-days-test">
+            <description>14 days test</description>
+            <note>Is automatically converted into a basic package after expiration</note>
+            <termOfContract period="days">14</termOfContract>
+            <contractRenewalTerm period="month">1</contractRenewalTerm>
+            <cancellationPeriod period="days">14</cancellationPeriod>           
+        </contract>
+    </contracts>
+</paymentRequest>

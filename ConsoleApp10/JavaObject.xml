@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user isForeign="false">
+    <id>1</id>
+    <login>admin</login>
+    <password>admin</password>
+  </user>
+  <user isForeign="true">
+    <id>2</id>
+    <login>admin2</login>
+    <password>admin</password>
+  </user>
+  <user isForeign="false">
+    <id>3</id>
+    <login>admin3</login>
+    <password>admin</password>
+  </user>
+  <user isForeign="true">
+    <id>4</id>
+    <login>admin4</login>
+    <password>admin</password>
+  </user>
+</users>
