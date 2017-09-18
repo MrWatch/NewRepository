@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Net;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.IO;
 
 namespace ConsoleApp14
 {
@@ -11,23 +13,27 @@ namespace ConsoleApp14
     {
         static void Main(string[] args)
         {
-            try
-            {
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://awdokanwdoawnodnawo.ru/");
-                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
-                response.Close();
-            }catch { Console.WriteLine("Error 404"); }
-            
+            Book book = new Book { Name = "Оно", Price = 9.99, Author = "Steven King", Year = 1986 };
 
-            int[] array=new int[5];
-            try
+            BinaryFormatter binFormat = new BinaryFormatter();
+            // Сохранить объект в локальном файле.
+            using (Stream fStream = new FileStream("file.txt",
+               FileMode.Create, FileAccess.Write, FileShare.None))
             {
-                for (int i = 0; i < 6; ++i)
-                {
-                    Console.Write(array[i]);
-                }
+                binFormat.Serialize(fStream, book);
             }
-            catch { Console.WriteLine("\nError 405"); }
+            using (Stream fStream = new FileStream("file.txt",
+               FileMode.Open))
+            {
+                binFormat.Deserialize(fStream);
+            }
+            Type t = typeof(User);
+            object[] attrs = t.GetCustomAttributes(false);
+            foreach (Attribute Attr in attrs)
+            {
+                Attr.Name="Name";
+                Console.WriteLine(Attr.Name);
+            }
             Console.Read();
         }
     }
