@@ -1,0 +1,13 @@
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\bin\Debug\HomeWork - FileSystem.exe.config
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\bin\Debug\HomeWork - FileSystem.exe
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\bin\Debug\HomeWork - FileSystem.pdb
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.csprojResolveAssemblyReference.cache
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.csproj.CoreCompileInputs.cache
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.exe
+c:\users\arys\documents\visual studio 2017\Projects\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.pdb
+C:\Users\АканД.LOCAL\Desktop\HomeWork - FileSystem\HomeWork - FileSystem\bin\Debug\HomeWork - FileSystem.exe.config
+C:\Users\АканД.LOCAL\Desktop\HomeWork - FileSystem\HomeWork - FileSystem\bin\Debug\HomeWork - FileSystem.exe
+C:\Users\АканД.LOCAL\Desktop\HomeWork - FileSystem\HomeWork - FileSystem\bin\Debug\HomeWork - FileSystem.pdb
+C:\Users\АканД.LOCAL\Desktop\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\АканД.LOCAL\Desktop\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.exe
+C:\Users\АканД.LOCAL\Desktop\HomeWork - FileSystem\HomeWork - FileSystem\obj\Debug\HomeWork - FileSystem.pdb
